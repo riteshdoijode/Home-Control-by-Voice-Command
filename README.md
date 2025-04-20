@@ -62,6 +62,6 @@ Most voice modules require training before use:
 
 ## 🖼️ Schematic (Optional)
 
-*You can include a Fritzing diagram or hand-drawn schematic here if needed.*
+![FPS60CEHXEZ6SW7](https://github.com/user-attachments/assets/377ba16f-fc73-4e29-b3b2-3b4c3026584c)
 
 ---
